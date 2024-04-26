@@ -25,9 +25,9 @@ Awarded Fundings
 1.   ***2023--25***.  Research on Reliability Decision-Making in Decentralized Heterogeneous IoT. ___National Natural Science Foundation of China, Youth Project (62202114)}___. PI.
 2.   ***2023--25***. Research on Active Discovery and Suppression Mechanisms for Network Security Risks Based on Intelligent Game Theory, ___Sub-project of the National Key R\&D Program___, PI.
 3.   ***2022--23***. Research on Distributed Clustering Methods in Heterogeneous IoT, ___China Postdoctoral Science Foundation General Program (2022M710861)___, PI.
-4.   ***2022--23***, Research on Incentive-Driven Intelligent Decision-Making in Multi-Regime Networks, ___China Postdoctoral Science Foundation Special Grant (2023T160141)___, PI.
-5.   ***2023--26***, Research on Key Technologies of Fuzz Testing for Large-Scale Software Systems, ___National Natural Science Foundation of China, General Program (62272121)___, Core member.
-6.   ***2023--26***, Research on Key Technologies of High-Performance Blockchain Sharding Consensus, ___National Natural Science Foundation of China, General Program (62272120)___, Core member.
+4.   ***2022--23***. Research on Incentive-Driven Intelligent Decision-Making in Multi-Regime Networks, ___China Postdoctoral Science Foundation Special Grant (2023T160141)___, PI.
+5.   ***2023--26***. Research on Key Technologies of Fuzz Testing for Large-Scale Software Systems, ___National Natural Science Foundation of China, General Program (62272121)___, Core member.
+6.   ***2023--26***. Research on Key Technologies of High-Performance Blockchain Sharding Consensus, ___National Natural Science Foundation of China, General Program (62272120)___, Core member.
 
 
 
