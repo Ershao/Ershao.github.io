@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an associate professor at the Cyberspace Institute of Advanced Technology (Fang class), Guangzhou University. I received my Ph.D. from the School of Computer Science at University College Cork  under the supervision of [Prof. Ken Brown](http://www.cs.ucc.ie/%7Ekb11/) in 2021 (Cork, Ireland). Before joining in University College Cork, I was a Research Engineer in Shenzhen Institute of Advanced Technology, Chinese Academic of Science in [Prof. Yong Zhang](https://hpcc.siat.ac.cn/homepage/zhangy.html)'s group. I was a Post-Doctoral Fellow in Cyberspace Institute of Advanced Technology at Guangzhou University, working with [Prof. Zhihong Tian](https://wyy.gzhu.edu.cn/info/1160/1560.htm) from 2021 to 2023. 
+I am an associate professor at the Cyberspace Institute of Advanced Technology (Fang Class), Guangzhou University. I received my Ph.D. from the School of Computer Science at University College Cork  under the supervision of [Prof. Ken Brown](http://www.cs.ucc.ie/%7Ekb11/) in 2021 (Cork, Ireland). Before joining in University College Cork, I was a Research Engineer in Shenzhen Institute of Advanced Technology, Chinese Academic of Science in [Prof. Yong Zhang](https://hpcc.siat.ac.cn/homepage/zhangy.html)'s group. I was a Post-Doctoral Fellow in Cyberspace Institute of Advanced Technology at Guangzhou University, working with [Prof. Zhihong Tian](https://wyy.gzhu.edu.cn/info/1160/1560.htm) from 2021 to 2023. 
 
 
 Research Interests
@@ -50,7 +50,7 @@ Awarded Fundings
 
 Hobbies
 ======
-1.  Running  5km every 2 days to keep fit, and it gives me good relaxation apart from doing research.
+1.  Running  5km every 2 days gives me good relaxation apart from doing research.
 2.  Playing dota2 is also a good option to kill time. Wraith King and Juggernaut are my favorite melee carries. I prefer to play supports (i.e., Lion and  Witch Doctor) as well. For sure, I can support if you are also a big fan of dota2. 
 
 Contact
