@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an associate professor at the Cyberspace Institute of Advanced Technology, Guangzhou University. I received my Ph.D. from the School of Computer Science at University College Cork  under the supervision of [Prof. Ken Brown](http://www.cs.ucc.ie/%7Ekb11/) in 2021 (Cork, Ireland). I was a Post-Doctoral Fellow in Cyberspace Institute of Advanced Technology at Guangzhou University, working with [Prof. Zhihong Tian](https://wyy.gzhu.edu.cn/info/1160/1560.htm) from 2021 to 2023. Before joining in University College Cork, I was a Research Engineer in Shenzhen Institute of Advanced Technology, Chinese Academic of Science in [Prof. Yong Zhang](https://hpcc.siat.ac.cn/homepage/zhangy.html)
+I am an associate professor at the Cyberspace Institute of Advanced Technology (Fang class), Guangzhou University. I received my Ph.D. from the School of Computer Science at University College Cork  under the supervision of [Prof. Ken Brown](http://www.cs.ucc.ie/%7Ekb11/) in 2021 (Cork, Ireland). I was a Post-Doctoral Fellow in Cyberspace Institute of Advanced Technology at Guangzhou University, working with [Prof. Zhihong Tian](https://wyy.gzhu.edu.cn/info/1160/1560.htm) from 2021 to 2023. Before joining in University College Cork, I was a Research Engineer in Shenzhen Institute of Advanced Technology, Chinese Academic of Science in [Prof. Yong Zhang](https://hpcc.siat.ac.cn/homepage/zhangy.html)
 's group.
 
 
