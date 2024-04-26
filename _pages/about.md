@@ -23,8 +23,20 @@ Research Interests
 Publications
 ======
 1. ***Cheng Qiao***, Kenneth N Brown, Fan Zhang, and Zhihong Tian. “[Adaptive Asynchronous
-Clustering Algorithm for Wireless Mesh Networks.]{https://doi.org/10.1109/TKDE.2021.3119550}” IEEE Transactions on Knowledge & Data
+Clustering Algorithm for Wireless Mesh Networks](https://doi.org/10.1109/TKDE.2021.3119550)”, IEEE Transactions on Knowledge & Data
 Engineering, vol. 35, no. 3, pp. 2610-2627, March 2023.
+2. ***Cheng Qiao***, Jing Qiu, Zhiyuan Tan, Geyong Min, Albert Y.Zomaya and Zhihong Tian.
+“[Evaluation Mechanism for Decentralized Collaborative Pattern Learning in Heterogeneous
+Vehicular Networks](https://doi.org/10.1109/TITS.2022.3186630)”, IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 11,
+pp. 13123-13132, Nov. 2023.
+3. ***Cheng Qiao***, Kenneth N. Brown, Yong Zhang, and Zhihong Tian “[CWEmd: A light-weight
+Similarity Measurement for Resource Constraint Vehicular Networks](https://doi.org/10.1109/JIOT.2023.3282968)”, IEEE Internet of
+Things Journal, 10 (22), 19655 - 19665, 2023.
+4. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
+Mechanism for Federated Learning in Vehicular Networks](https://doi.org/10.1109/MNET.2023.3329366)”, IEEE Network (early access), 2024.
+5. Chen, Zhiwen and Hao, Qiong and Huang, Hong and ***Qiao, Cheng***. “[Delay-Tolerant
+Distributed Algorithms for Decision-Making in Vehicular Networks](https://doi.org/10.1142/S0217595923400043)”, Asia-Pacific Journal of
+Operational Research, 40(04), 2340004, 2023. 
 
 Awarded Fundings
 ======
