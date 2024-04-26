@@ -22,7 +22,7 @@ Research Interests
 
 Awarded Fundings
 ======
-1.   ***2023--25***.  "Research on Reliability Decision-Making in Decentralized Heterogeneous IoT". *National Natural Science Foundation of China, Youth Project (62202114)}*. PI.
+1.   ***2023--25***.  "Research on Reliability Decision-Making in Decentralized Heterogeneous IoT". *National Natural Science Foundation of China, Youth Project (62202114)*. PI.
 2.   ***2023--25***. "Research on Active Discovery and Suppression Mechanisms for Network Security Risks Based on Intelligent Game Theory", *Sub-project of the National Key R\&D Program*, PI.
 3.   ***2022--23***. "Research on Distributed Clustering Methods in Heterogeneous IoT", *China Postdoctoral Science Foundation General Program (2022M710861)*, PI.
 4.   ***2022--23***. "Research on Incentive-Driven Intelligent Decision-Making in Multi-Regime Networks", *China Postdoctoral Science Foundation Special Grant (2023T160141)*, PI.
