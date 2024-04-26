@@ -49,11 +49,14 @@ Awarded Fundings
 5.   ***2023--26***. "Research on Key Technologies of Fuzz Testing for Large-Scale Software Systems", *National Natural Science Foundation of China, General Program (62272121)*, Core member.
 6.   ***2023--26***. "Research on Key Technologies of High-Performance Blockchain Sharding Consensus", *National Natural Science Foundation of China, General Program (62272120)*, Core member.
 
-
+Hobbies
+======
+1.  Running  5km every 2 days to keep fit, and it gives me good relaxation apart from doing research.
+2.  Playing dota2 is another hobby. Wraith King and Juggernaut are my favorite melee carries. I prefer to play supports, such as Lion and  Witch Doctor. For sure, I can support if you are also a big fan of dota2. 
 
 Contact
 ======
 Email: mcheng.qiao[at]gmail.com
 
-I would kindly suggest you read the Advice for [Prospective Research Students](https://uvasrg.github.io/prospective/) by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) before contacting.
+Looking for highly self-motivated students  to work with me at Guangzhou University. I would kindly suggest you read the Advice for [Prospective Research Students](https://uvasrg.github.io/prospective/) by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) before contacting. 
 
