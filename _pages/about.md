@@ -20,6 +20,12 @@ Research Interests
 3. Distributed Learning and Federated Learning with  Multi-modal Data.
 4. Privacy and Security Protection in Distributed Learning.
 
+Publications
+======
+1. ***Cheng Qiao***, Kenneth N Brown, Fan Zhang, and Zhihong Tian. “[Adaptive Asynchronous
+Clustering Algorithm for Wireless Mesh Networks.]{https://doi.org/10.1109/TKDE.2021.3119550}” IEEE Transactions on Knowledge & Data
+Engineering, vol. 35, no. 3, pp. 2610-2627, March 2023.
+
 Awarded Fundings
 ======
 1.   ***2023--25***.  "Research on Reliability Decision-Making in Decentralized Heterogeneous IoT". *National Natural Science Foundation of China, Youth Project (62202114)*. PI.
