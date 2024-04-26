@@ -15,11 +15,8 @@ I am an associate professor at the Cyberspace Institute of Advanced Technology, 
 
 Research Interests
 ======
-I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, federated learning, incentive mechanism, bandit and AI security. 
-I focus on theoretical research using tools including optimization and machine/deep learning.
+1. Clustering Algorithm in Resource Constrained Network.
+2. Inference Learning and Intelligent Learning in Wireless Networks.
+3. Distributed Learning and Federated Learning with  Multi-modal Data.
+4. Privacy and Security Protection in Distributed Learning.
 
-I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, federated learning, incentive mechanism, bandit and AI security. 
-I focus on theoretical research using tools including optimization and machine/deep learning.
-
-I am broadly interested in problems/scenarios: crowdsourcing/crowdsensing, federated learning, incentive mechanism, bandit and AI security. 
-I focus on theoretical research using tools including optimization and machine/deep learning.
