@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my homepage!
 
-I am an assistant professor (master supervisor) at the School of Computer Science and Technology, Beijing Institute of Technology. I received a B.S. from the School of Computer Science and Technology at Beijing Institute of Technology, and a Ph.D. from the School of Computer Science and Technology at Beijing Institute of Technology under the supervision of Prof. Fan Li. I was a Post-Doctoral Fellow in the School of Cyberspace Science and Technology at Beijing Institute of Technology, working with Prof. Liehuang Zhu and Prof. Fan Li.
+I am an associate professor at the Cyberspace Institute of Advanced Technology, Guangzhou University. I received my Ph.D. from the School of Computer Science at University College Cork, Ireland, under the supervision of [Prof. Ken Brown] (http://www.cs.ucc.ie/%7Ekb11/). I was a Post-Doctoral Fellow in the School of Cyberspace Science and Technology at Beijing Institute of Technology, working with Prof. Liehuang Zhu and Prof. Fan Li.
 
 
 
