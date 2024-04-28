@@ -50,8 +50,8 @@ Awarded Fundings
 
 Hobbies
 ======
-1.  Running  5km  gives me good relaxation apart from doing research （almost every 2 days）.
-2.  Playing dota2 is also a good option to kill time. Wraith King and Juggernaut are my favorite melee carries. I prefer to play supports (i.e., Lion and  Witch Doctor) as well. For sure, I can support if you are also a big fan of dota2. 
+1.  Running and traveling give me good relaxation apart from doing research.
+2.  Playing dota2 is also a good option to kill time. Wraith King and Juggernaut are my favorite melee carries and I also prefer to play supports (i.e., Lion and  Witch Doctor). For sure, I can support if you wanna carry the game. 
 
 Contact
 ======
