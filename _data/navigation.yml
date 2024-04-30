@@ -1,10 +1,10 @@
 # main links links
-main:
-- title: "Publications"
-   url: /pages/about.md#publications 
+# main:
+# - title: "Publications"
+#    url: /pages/about.md#publications 
 
-- title: "Hobbies"
-   url: /pages/about.md#Hobbies 
+# - title: "Hobbies"
+#    url: /pages/about.md#Hobbies 
 
 
 #   - title: "Talks"
