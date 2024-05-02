@@ -21,10 +21,10 @@ Research Interests
 
 Publications
 ======
-1. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
+1. Cai, Xiao and Shi, Kaibo and Sun, Yanbin and Cao, Jinde and Kwon, Oh-Min and ***Qiao, Cheng*** and Tian, Zhihong. "[Design of Intelligent Control Under Machine Learning Supervision and Signal Compression Mechanism Design for NCSs Under DoS Attacks](https://ieeexplore.ieee.org/document/10511248)",IEEE Transactions on Intelligent Transportation Systems (early access), 2024.
+2. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
 Mechanism for Federated Learning in Vehicular Networks](https://doi.org/10.1109/MNET.2023.3329366)”, IEEE Network (early access), 2024.
-2. Xiao Cai, Kaibo Shi, Yanbin Sun, Jinde Cao, Shiping Wen, ***Cheng Qiao***, Zhihong Tian. "[Stability Analysis of Networked Control Systems under DoS Attacks and Security Controller Design with Mini-batch Machine Learning Supervision](https://ieeexplore.ieee.org/abstract/document/10375527)", IEEE Transactions on Information Forensics and Security (early access), 2024.
-   
+3. Xiao Cai, Kaibo Shi, Yanbin Sun, Jinde Cao, Shiping Wen, ***Cheng Qiao***, Zhihong Tian. "[Stability Analysis of Networked Control Systems under DoS Attacks and Security Controller Design with Mini-batch Machine Learning Supervision](https://ieeexplore.ieee.org/abstract/document/10375527)", IEEE Transactions on Information Forensics and Security (early access), 2024.
 4.  ***Cheng Qiao***, Kenneth N Brown, Fan Zhang, and Zhihong Tian. “[Adaptive Asynchronous
 Clustering Algorithm for Wireless Mesh Networks](https://doi.org/10.1109/TKDE.2021.3119550)”, IEEE Transactions on Knowledge & Data
 Engineering, vol. 35, no. 3, pp. 2610-2627, March 2023.
