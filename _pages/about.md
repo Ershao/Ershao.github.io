@@ -21,22 +21,23 @@ Research Interests
 
 Publications
 ======
-1. Zhao, Bowen and Guo, Weibin and Tian, Bo and ***Qiao, Cheng*** and Pei, Qingqi and Liu, Ximeng. "[RATE: Privacy-Preserving Task Assignment with Bi-objective Optimization for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/10623869)", IEEE Transactions on Mobile Computing (early access), 2024.
-2. Xiao Cai; Kaibo Shi; Yanbin Sun; Jinde Cao; Oh-Min Kwon; ***Cheng Qiao***; Zhihong Tian. "[Design of Intelligent Control Under Machine Learning Supervision and Signal Compression Mechanism Design for NCSs Under DoS Attacks](https://ieeexplore.ieee.org/abstract/document/10511248)", IEEE Transactions on Intelligent Transportation Systems (early access), 2024.
-3. Huang, Rui and Wen, Wushao and Zhou, Zhi and Dong, Chongwu and ***Cheng Qiao*** and Tian, ZhiHong and Chen, Xu. "[Dynamic Task Offloading for multi-UAVs in Vehicular Edge Computing With Delay Guarantees: A Consensus ADMM-based Optimization](https://ieeexplore.ieee.org/abstract/document/10622102)", IEEE Transactions on Mobile Computing (early access), 2024.
-4. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
+1. Cai, Xiao and Sun, Yanbin and Shi, Kaibo and Xie, Xiangpeng and Soh, Yeng Chai and ***Qiao, Cheng*** and Tian, Zhihong. "[Enhancing Networked Control System Resilience to TCP/IP Protocol DoS Attacks: Performance Analysis and Intelligent Controller Design](https://ieeexplore.ieee.org/abstract/document/10679774)", IEEE Transactions on Automation Science and Engineering (early access), 2024.
+3. Zhao, Bowen and Guo, Weibin and Tian, Bo and ***Qiao, Cheng*** and Pei, Qingqi and Liu, Ximeng. "[RATE: Privacy-Preserving Task Assignment with Bi-objective Optimization for Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/10623869)", IEEE Transactions on Mobile Computing (early access), 2024.
+4. Xiao Cai; Kaibo Shi; Yanbin Sun; Jinde Cao; Oh-Min Kwon; ***Cheng Qiao***; Zhihong Tian. "[Design of Intelligent Control Under Machine Learning Supervision and Signal Compression Mechanism Design for NCSs Under DoS Attacks](https://ieeexplore.ieee.org/abstract/document/10511248)", IEEE Transactions on Intelligent Transportation Systems (early access), 2024.
+5. Huang, Rui and Wen, Wushao and Zhou, Zhi and Dong, Chongwu and ***Cheng Qiao*** and Tian, ZhiHong and Chen, Xu. "[Dynamic Task Offloading for multi-UAVs in Vehicular Edge Computing With Delay Guarantees: A Consensus ADMM-based Optimization](https://ieeexplore.ieee.org/abstract/document/10622102)", IEEE Transactions on Mobile Computing (early access), 2024.
+6. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
 Mechanism for Federated Learning in Vehicular Networks](https://doi.org/10.1109/MNET.2023.3329366)”, IEEE Network (early access), 2024.
-5. ***Cheng Qiao***, Mianjie Li, Yuan Liu and Zhihong Tian, "[Transitioning From Federated Learning to Quantum Federated Learning in Internet of Things: A Comprehensive Survey](https://ieeexplore.ieee.org/document/10529137)" in IEEE Communications Surveys & Tutorials (early access), 2024.
-6. Xiao Cai, Kaibo Shi, Yanbin Sun, Jinde Cao, Shiping Wen, ***Cheng Qiao***, Zhihong Tian. "[Stability Analysis of Networked Control Systems under DoS Attacks and Security Controller Design with Mini-batch Machine Learning Supervision](https://ieeexplore.ieee.org/abstract/document/10375527)", IEEE Transactions on Information Forensics and Security, vol 19, pp.3857-3865, 2024.
-7.  ***Cheng Qiao***, Kenneth N Brown, Fan Zhang, and Zhihong Tian. “[Adaptive Asynchronous
+7. ***Cheng Qiao***, Mianjie Li, Yuan Liu and Zhihong Tian, "[Transitioning From Federated Learning to Quantum Federated Learning in Internet of Things: A Comprehensive Survey](https://ieeexplore.ieee.org/document/10529137)" in IEEE Communications Surveys & Tutorials (early access), 2024.
+8. Xiao Cai, Kaibo Shi, Yanbin Sun, Jinde Cao, Shiping Wen, ***Cheng Qiao***, Zhihong Tian. "[Stability Analysis of Networked Control Systems under DoS Attacks and Security Controller Design with Mini-batch Machine Learning Supervision](https://ieeexplore.ieee.org/abstract/document/10375527)", IEEE Transactions on Information Forensics and Security, vol 19, pp.3857-3865, 2024.
+9.  ***Cheng Qiao***, Kenneth N Brown, Fan Zhang, and Zhihong Tian. “[Adaptive Asynchronous
 Clustering Algorithm for Wireless Mesh Networks](https://doi.org/10.1109/TKDE.2021.3119550)”, IEEE Transactions on Knowledge & Data Engineering, vol. 35, no. 3, pp. 2610-2627, March 2023.
-8. ***Cheng Qiao***, Jing Qiu, Zhiyuan Tan, Geyong Min, Albert Y.Zomaya and Zhihong Tian.
+10. ***Cheng Qiao***, Jing Qiu, Zhiyuan Tan, Geyong Min, Albert Y.Zomaya and Zhihong Tian.
 “[Evaluation Mechanism for Decentralized Collaborative Pattern Learning in Heterogeneous
 Vehicular Networks](https://doi.org/10.1109/TITS.2022.3186630)”, IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 11,
 pp. 13123-13132, Nov. 2023.
-9. ***Cheng Qiao***, Kenneth N. Brown, Yong Zhang, and Zhihong Tian “[CWEmd: A light-weight
+11. ***Cheng Qiao***, Kenneth N. Brown, Yong Zhang, and Zhihong Tian “[CWEmd: A light-weight
 Similarity Measurement for Resource Constraint Vehicular Networks](https://doi.org/10.1109/JIOT.2023.3282968)”, IEEE Internet of Things Journal, 10 (22), 19655 - 19665, 2023.
-10. Chen, Zhiwen and Hao, Qiong and Huang, Hong and ***Qiao, Cheng***. “[Delay-Tolerant
+12. Chen, Zhiwen and Hao, Qiong and Huang, Hong and ***Qiao, Cheng***. “[Delay-Tolerant
 Distributed Algorithms for Decision-Making in Vehicular Networks](https://doi.org/10.1142/S0217595923400043)”, Asia-Pacific Journal of
 Operational Research, 40(04), 2340004, 2023. 
 
