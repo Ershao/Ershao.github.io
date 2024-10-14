@@ -21,8 +21,9 @@ Research Interests
 
 Publications
 ======
-1. Xiao Cai; Kaibo Shi; Yanbin Sun; Jinde Cao; Oh-Min Kwon; ***Cheng Qiao***; Zhihong Tian. "[Design of Intelligent Control Under Machine Learning Supervision and Signal Compression Mechanism Design for NCSs Under DoS Attacks](https://ieeexplore.ieee.org/abstract/document/10511248)", IEEE Transactions on Intelligent Transportation Systems (early access), 2024.
-2. Huang, Rui and Wen, Wushao and Zhou, Zhi and Dong, Chongwu and ***Cheng Qiao*** and Tian, ZhiHong and Chen, Xu. "[Dynamic Task Offloading for multi-UAVs in Vehicular Edge Computing With Delay Guarantees: A Consensus ADMM-based Optimization](https://ieeexplore.ieee.org/abstract/document/10622102)", IEEE Transactions on Mobile Computing (early access), 2024.
+1. Zhao, Bowen and Guo, Weibin and Tian, Bo and ***Qiao, Cheng*** and Pei, Qingqi and Liu, Ximeng. "[RATE: Privacy-Preserving Task Assignment with Bi-objective Optimization for Mobile Crowdsensing] (https://ieeexplore.ieee.org/abstract/document/10623869)", IEEE Transactions on Mobile Computing (early access), 2024.
+2. Xiao Cai; Kaibo Shi; Yanbin Sun; Jinde Cao; Oh-Min Kwon; ***Cheng Qiao***; Zhihong Tian. "[Design of Intelligent Control Under Machine Learning Supervision and Signal Compression Mechanism Design for NCSs Under DoS Attacks](https://ieeexplore.ieee.org/abstract/document/10511248)", IEEE Transactions on Intelligent Transportation Systems (early access), 2024.
+3. Huang, Rui and Wen, Wushao and Zhou, Zhi and Dong, Chongwu and ***Cheng Qiao*** and Tian, ZhiHong and Chen, Xu. "[Dynamic Task Offloading for multi-UAVs in Vehicular Edge Computing With Delay Guarantees: A Consensus ADMM-based Optimization](https://ieeexplore.ieee.org/abstract/document/10622102)", IEEE Transactions on Mobile Computing (early access), 2024.
 4. ***Cheng Qiao***, Yanqing Zeng, Hui Lu, Yuan Liu and Zhihong Tian. “[An Efficient Incentive
 Mechanism for Federated Learning in Vehicular Networks](https://doi.org/10.1109/MNET.2023.3329366)”, IEEE Network (early access), 2024.
 5. ***Cheng Qiao***, Mianjie Li, Yuan Liu and Zhihong Tian, "[Transitioning From Federated Learning to Quantum Federated Learning in Internet of Things: A Comprehensive Survey](https://ieeexplore.ieee.org/document/10529137)" in IEEE Communications Surveys & Tutorials (early access), 2024.
