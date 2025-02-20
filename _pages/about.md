@@ -14,10 +14,9 @@ I am an Associate Professor at the Cyberspace Institute of Advanced Technology (
 
 Research Interests
 ======
-1. Clustering Algorithm in Resource Constrained Network.
-2. Inference Learning and Intelligent Decision-making in Wireless Networks.
-3. Distributed Learning and Federated Learning with  Multi-modal Data.
-4. Privacy and Security Protection in Distributed Learning.
+1. Inference Learning and Intelligent Decision-making in Internet of Things.
+2. Distributed Learning and Federated Learning with  Multi-modal Data.
+3. Privacy and Security Protection in Distributed Learning.
 
 Publications
 ======
