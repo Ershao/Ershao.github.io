@@ -20,7 +20,7 @@ Research Interests
 
 Publications
 ======
-1. Qiao, Cheng and Li, Mianjie and Jiang, Jun and Zhu, Fa and Youssef, Moustafa Amin and Xie, Peng. "[An Efficient Method for Generating Adversarial Examples within Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/11373174/)",IEEE Transactions on Consumer Electronics, 2026
+1. Qiao, Cheng and Li, Mianjie and Jiang, Jun and Zhu, Fa and Youssef, Moustafa Amin and Xie, Peng. "[An Efficient Method for Generating Adversarial Examples within Consumer Electronics](https://ieeexplore.ieee.org/abstract/document/11373174/)",IEEE Transactions on Consumer Electronics, 2026.
 2. Qiao Cheng, Xiao Cai, Yanbin Sun, Kaibo Shi, Zhihong Tian. "[Deep Learning-Driven DDoS Attack Detection and Security Control in Autonomous Ground Vehicle: A Restart Controller Approach](https://ieeexplore.ieee.org/abstract/document/11360304)",IEEE Transactions on Systems, Man, and Cybernetics: Systems, vol. 56, no. 4, pp. 2287-2296, April 2026.
 3. Kaixiang Yang, Huijun Chen, Wuxing Chen, Chien-Ming Chen, Song Sun, Saru Kumari, ***Cheng Qiao***. "[Contrastive Federated Learning for Non-IID and Imbalanced Data in Computational Social Systems](https://ieeexplore.ieee.org/abstract/document/11313572)",IEEE Transactions on Computational Social Systems, 2026.
 4. Bowen Zhao, Siyuan Guan, Minghui Chen, Jiali Wu, ***Cheng Qiao***, Yang Xiao. "[Efficient and Accurate Privacy-Preserving Task Allocation for Unmanned Aerial Vehicle-Based Mobile Crowdsensing](https://ieeexplore.ieee.org/abstract/document/11282482)",IEEE Transactions on Network Science and Engineering, vol. 13, pp. 5638-5653, 2026.
